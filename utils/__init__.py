@@ -1,2 +1,3 @@
-from .functions import *
-from .data_generation import *
+from .data_processing import *
+from .baseline import *
+from .fri import *
